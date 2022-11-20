@@ -1,1 +1,3 @@
-﻿good
+﻿label l:
+    "kk"
+    
